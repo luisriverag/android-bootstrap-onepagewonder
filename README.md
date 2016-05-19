@@ -6,3 +6,4 @@ You might want to update
 -App name  in strings.xml
 -Package name in AndroidManifest.xml
 -Icons in /app/src/main/res, you can use [romannurik/AndroidAssetStudio/](http://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) to generate them easily
+-And obviously the Bootstrap template in /app/src/main/res/assets/www
